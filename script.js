@@ -1,0 +1,1 @@
+alert("This website is for my development course and this is not for comercial use ")
